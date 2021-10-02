@@ -7,6 +7,6 @@
 
 Pull request and add any feature to the website.:octocat:
 
-<strong> ⭐️ Contributors in 2021 </strong>
+<strong> ⭐️ Contributors ⭐️ </strong>
 
 NOTE: Only valid PRs will be merged.
