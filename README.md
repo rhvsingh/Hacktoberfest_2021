@@ -9,4 +9,4 @@ Pull request and add any feature to the website.:octocat:
 
 <strong> ⭐️ Contributors ⭐️ </strong>
 
-NOTE: Only valid PRs will be merged.
+NOTE: Only valid and limitd PRs will be merged.
