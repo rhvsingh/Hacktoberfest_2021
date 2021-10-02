@@ -4,13 +4,9 @@
     </a>
 </p>
 <center>:sparkles:<h4>1 OCTOBER - 31 OCTOBER</h4>:sparkles:<center>
+
 Pull request and add any feature to the website.:octocat:
 
-</br>
 <strong> ⭐️ Contributors in 2021 </strong>
-
-  
-  
-<br />
 
 NOTE: Only valid PRs will be merged.
